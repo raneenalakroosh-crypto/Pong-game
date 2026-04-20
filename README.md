@@ -35,8 +35,7 @@
 ---
 
 ## 📸 صور من اللعبة
-pong.png
-(حط صور هنا)
+<img width="666" height="378" alt="pong" src="https://github.com/user-attachments/assets/072767d2-1d41-4a02-b5c5-b5cc43871a9f" /> 
 
 ---
 
