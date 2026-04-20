@@ -55,9 +55,7 @@ https://github.com/user-attachments/assets/9831aa65-d65c-4dbb-aabb-561aa14d2ca3
 * Unity
 * C#
 
----
 
-## 👨‍💻 المطور
 
-اسمك
+
 
