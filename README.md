@@ -1,2 +1,65 @@
-# Pong-game
-A classic 2D Pong game developed using Unity Engine and scripted in C#. This project focuses on the core mechanics of retro arcade games, including physics-based ball movement, collision detection, and real-time scoring systems
+
+# 🏓 Pong Duel
+
+لعبة Pong كلاسيكية للاعبين 👥
+تم تطويرها باستخدام Unity، حيث يتنافس لاعبان للتحكم بالمضارب ومحاولة تسجيل الأهداف.
+
+---
+
+## 🎮 فكرة اللعبة
+
+لعبة تنافسية محلية (Local Multiplayer)
+كل لاعب يتحكم بمضربه ويصد الكرة ويحاول يسجل في مرمى الخصم.
+
+---
+
+## 🕹️ التحكم
+
+### 👤 اللاعب الأول:
+
+* W → تحريك للأعلى
+* S → تحريك للأسفل
+
+### 👤 اللاعب الثاني:
+
+* ↑ → للأعلى
+* ↓ → للأسفل
+
+---
+
+## 🎯 الهدف
+
+* صد الكرة وعدم خروجها من منطقتك
+* تسجيل أكبر عدد من الأهداف على الخصم
+
+---
+
+## 📸 صور من اللعبة
+
+(حط صور هنا)
+
+---
+
+## 🎥 فيديو
+
+(حط رابط فيديو من YouTube)
+
+---
+
+## ⬇️ تحميل اللعبة
+
+(حط رابط التحميل)
+
+---
+
+## 🛠️ التقنيات
+
+* Unity
+* C#
+
+---
+
+## 👨‍💻 المطور
+
+اسمك
+
