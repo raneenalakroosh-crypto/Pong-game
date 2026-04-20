@@ -41,16 +41,15 @@
 
 ## 🎥 فيديو
 
-(حط رابط فيديو من YouTube)
+
+
+https://github.com/user-attachments/assets/9831aa65-d65c-4dbb-aabb-561aa14d2ca3
+
+
 
 ---
 
-## ⬇️ تحميل اللعبة
-
-(حط رابط التحميل)
-
----
-
+ 
 ## 🛠️ التقنيات
 
 * Unity
